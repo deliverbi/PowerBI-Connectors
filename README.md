@@ -25,4 +25,11 @@ Create your ODBC Connection within your windows ODBC Manager - Copy the DSN Name
 
 DSN is the only mandatory parameter within powerbi along with any username and password.
 
+Please use at your own risk - Works ok for our reporting requirements.
+
+Presto Notes ****
+
+BigInt - Powerbi issues with BigInt -- Later Release
+Decimal - Working Ok - Preferes Double as some glitches on Filters within POWERBI. (Unrelated to Connector)
+
 
