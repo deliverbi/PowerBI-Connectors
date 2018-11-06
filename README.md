@@ -1,4 +1,4 @@
-# PowerBI-Connectors
+# PowerBI-Connectors Custom ODBC Direct Query Presto refined
 PowerBI Custom ODBC Direct Query Connector
 
 
