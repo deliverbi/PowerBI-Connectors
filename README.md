@@ -29,7 +29,7 @@ Please use at your own risk - Works ok for our reporting requirements.
 
 Presto Notes ****
 
-BigInt - Powerbi issues with BigInt -- Later Release
-Decimal - Working Ok - Preferes Double as some glitches on Filters within POWERBI. (Unrelated to Connector)
+BigInt - Powerbi issues with BigInt -- Fixed on 09/11/2018 release
+Decimal - Working Ok - Preferes Double as some glitches on Filters within POWERBI. (Unrelated to Connector) Fixed on 09/11/2018 release
 
 
