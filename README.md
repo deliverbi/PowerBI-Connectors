@@ -33,5 +33,6 @@ Please use at your own risk - Works ok for our reporting requirements. - We test
 
 BigInt - Powerbi issues with BigInt -- Fixed on 09/11/2018 release
 Decimal - Working Ok - Prefer Double -- Works with Decimal Fields Fixed on 09/11/2018 release
+Gateway Support - Checked with Treasure Data ODBC Adaptor - ODBC Connections needs to be under userDSN and systemDSN named the same for the gateway to work properly on the machine where the gateway will be installed.
 
 
